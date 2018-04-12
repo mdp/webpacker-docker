@@ -10,5 +10,3 @@
 import '../src/application.css'
 
 console.log('Hello World from Webpacker')
-
-alert('hey fuck head');
